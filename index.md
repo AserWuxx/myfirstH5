@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# 一级标题	我
+## 二级标题	
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题
+- 文本一
+- 文本二
+- 文本三
+1. 文本1
+2. 文本2
+3. 文本3
 
-You can use the [editor on GitHub](https://github.com/AserWuxx/myfirstH5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[简书](http://www.jianshu.com)
+![](http://img.hb.aicdn.com/f7d9eae49f937c18c7b6b2e1b85e660e7f622f9a12a87b-jFMlEC_fw658)
+[花瓣](http://huaban.com/pins/1007721517/)
+> 一盏灯， *一片昏黄*； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持**淡定**， 人生从此不再寂寞。
+# 春晓 2018/3/14 
+> 春眠不觉晓
+> 处处闻啼鸟 
+> 夜来风雨声 
+> 花落知多少
+## 代码引用
+`hello world`
+###
 ```
+hello world
+system.out.println("hello world!");
+```
+## 表格
+<p>
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##你
 
-### Jekyll Themes
+![][1]
+[1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
+1. 
+- 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AserWuxx/myfirstH5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+----------
+    zzad 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
