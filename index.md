@@ -1,5 +1,5 @@
-document.write("<h1>This is a heading</h1>");
-document.write("<p>This is a paragraph</p>");
+document.write("<h1>我的H5</h1>");
+document.write("<p>我的页面</p>");
 # 一级标题	我
 ## 二级标题	
 ### 三级标题
